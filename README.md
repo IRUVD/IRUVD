@@ -10,6 +10,11 @@ This repository contains the IRUVD (Indian Road User Vehicle Dataset), a compreh
 - **Annotations:** 14.3K bounding boxes, meticulously annotated for various vehicles and pedestrians.
 - **Scope:** The dataset covers diverse scenarios encountered on Indian roads, facilitating robust model training.
 
+  
+## Accessing the Dataset
+
+The IRUVD dataset is available for download [here](https://drive.google.com/drive/folders/1WQzpYrYaqbfmeg7d1fSTWIAZRSK2mqwt?usp=drive_link). Please make sure to adhere to the terms mentioned in the dataset documentation.
+
 ## Citation
 
 If you use this dataset in your research or work, please cite the following paper:
